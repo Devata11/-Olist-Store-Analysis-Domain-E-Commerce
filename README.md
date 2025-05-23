@@ -28,6 +28,12 @@ Retain customers : Olist store analysis can help retain customers by identifying
 
 1. Excel Dashboard
 
+https://github.com/Devata11/-Olist-Store-Analysis-Domain-E-Commerce/blob/main/Excel%20Olist.png
+
+2. Power BI Dashboard
+
+
+
 
 
 
