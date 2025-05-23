@@ -32,6 +32,7 @@ https://github.com/Devata11/-Olist-Store-Analysis-Domain-E-Commerce/blob/main/Ex
 
 2. Power BI Dashboard
 
+https://github.com/Devata11/-Olist-Store-Analysis-Domain-E-Commerce/blob/main/Power%20Bi%20Olist.png
 
 
 
