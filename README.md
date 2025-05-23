@@ -38,6 +38,36 @@ https://github.com/Devata11/-Olist-Store-Analysis-Domain-E-Commerce/blob/main/Po
 
 3. Tableau Dashboard
 
+ https://github.com/Devata11/-Olist-Store-Analysis-Domain-E-Commerce/blob/main/Tableau%20Olist.png
+
+ ⚙️ Tools and Technologies
+ 
+Excel: Data cleaning and dashboard creation.
+MySQL: Database creation and data import.
+Power BI: Interactive dashboards for real-time insights.
+Tableau: Data visualization and reporting.
+
+🛠️ Challenges Faced
+
+Data cleaning and formatting inconsistencies.
+Standardizing data types across datasets.
+
+📌 Conclusion
+
+The Olist store analysis project provides valuable insights into customer behavior and payment statistics.
+
+The analysis of this KPI’s helps Olist in identifying areas of improvement and creating targeted marketing campaigns.
+
+This project serves as a great example of how data analysis can help businesses make informed decisions.
+
+💡 Recommendations
+
+Regularly monitor and analyze customer reviews to gain insights in product quality and identify areas for improvement . Dashboards can be used to identify customer patterns in customer reviews. This will provide a data driven approach to enhance customer experience.
+
+Providing a proper shipment tracking system aids in having clear and concise communication between customers , sellers and couriers. Regular updates can set proper expectations among customers and specific delivery instructions of customers can be properly accommodated, By establishing trust and communication, both parties can work together to resolve any issues that may arise.
+
+
+
 
 
 
