@@ -45,10 +45,10 @@ This project provides a data-driven analysis of Olist Store — a large Brazilia
 
 
 ### 📈 Power BI Dashboard
-<img width="1867" height="893" alt="Power Bi Olist" src="https://github.com/user-attachments/assets/c480b3dc-d1e8-4c2e-a8e9-f7236a83c50f" />
+<img width="1867" height="893" alt="![Uploading Power BI Olist_2.png…]()
+" src="https://github.com/user-attachments/assets/c480b3dc-d1e8-4c2e-a8e9-f7236a83c50f" />
 
-[Power BI Dashboard](./Olist%20Power%20Bi.png)
-![Power BI Rating Dashboard](./Olist%20Power%20Bi_2.png)
+<img width="1867" height="893" alt="Power Bi Olist" src="https://github.com/user-attachments/assets/c480b3dc-d1e8-4c2e-a8e9-f7236a83c50f" />
 
 ### 📉 Tableau Dashboard
 ![Tableau Dashboard](./Olist%20Tableau.png)
